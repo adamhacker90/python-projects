@@ -4,10 +4,10 @@ computer_wins = 0
 winning_score = 3
 
 while player_wins < winning_score and computer_wins < winning_score:
-    print(f"Player Score: {player_wins} Computer Score: {computer_wins}")
-    print("...rock...")
+    print(f"\nPlayer Score: {player_wins} Computer Score: {computer_wins}")
+    print("\n...rock...")
     print("...paper...")
-    print("...scissors...")
+    print("...scissors...\n")
 
     player = input("(Enter your choice): ").lower()
     if player == "quit" or player == "q":
@@ -20,7 +20,7 @@ while player_wins < winning_score and computer_wins < winning_score:
     else:
         computer = "scissors"
 
-    print(f"The computer plays: {computer}")
+    print(f"\nThe computer plays: {computer}")
 
     if player == computer:
         print("It's a tie!")
