@@ -1,0 +1,258 @@
+21-11-03 15:08:37 main                      DEBUG    USNYLT548
+21-11-03 15:08:37 main                      DEBUG    ***SEARCH: web.ini***
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    ApacheVersion=2.4.41
+
+21-11-03 15:08:37 main                      DEBUG    ERROR Not Found:
+21-11-03 15:08:37 main                      DEBUG    LogActiveDirectoryLogins=0
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    ReleaseVersion=Quantify5B_Build_59
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    RestrictAlarmDisplay=1
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    HijackingProtection=0
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    LOGINEXPIRY=1800
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    DefaultLocale=US
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    AllowLocalStorage=0
+
+21-11-03 15:08:37 main                      DEBUG    ERROR Not Found:
+21-11-03 15:08:37 main                      DEBUG    UseEngineerAccount=0
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    HTML5Replay=1
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    PerformBrowserChecks=0
+
+21-11-03 15:08:37 main                      DEBUG    Found:
+21-11-03 15:08:37 main                      DEBUG    USE_LDS=1
+
+21-11-03 15:08:39 main                      DEBUG    ***SEARCH: recorder.ini***
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    MaxSearchCriteria=300
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    MaxSearchCriteria=300
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    MaxSearchCriteria=300
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    MaxSearchCriteria=300
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    MaxSearchCriteria=300
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    MaxSearchCriteria=300
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    f49a932c4de8b40e85b23657f1b3c138=RedBox-10423
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    2b28a1c40b67fb49512503cbf153309c=RedBox-10424
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    885d4f119e4adb2a683cdf03d1c60cf4=RedBox-10425
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    bac1fabf356882b7c2e4e9795a4b5603=RedBox-10426
+
+21-11-03 15:08:39 main                      DEBUG    Found:
+21-11-03 15:08:39 main                      DEBUG    8b6e211292fef37349f462a3b8c2ae15=RedBox-10427
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    3158580d2f7982056a8e724bfa55c68f=RedBox-10428
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    11297d0b3771e102c71560c2deff1beb=RedBox-10429
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    dc6c0673f28bf437660ce33852815bf9=RedBox-10430
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    ad3b66346a45db90fc991eed9f31743b=RedBox-10431
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    f69dc1b1609d6a14431bf0f5559688ac=RedBox-10432
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    1e2f38a48cdf48546c2113668cf8b3ff=RedBox-10433
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    07d9cf8fa6a23fc077861680cc3b2732=RedBox-10434
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    ad1cd1f9d9633c1d0cf506751a897416=RedBox-10435
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    e02762bd4b8716f9861e2a550de73cf6=RedBox-10436
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    2065970e189170445ce7176042aac88b=RedBox-10437
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    9db04685c1e7b5ccc65bd1f7fb3d500d=RedBox-10438
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    ecab541aee833ee873f36b5b8f02d8d9=RedBox-10439
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    4e6319e92683fa556326ac2a9c799385=RedBox-10442
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    6d10df1854dbb92706cff9981e8cf6e8=RedBox-10443
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    ceb8da09a0c21fee24dc148f88ae2686=RedBox-10445
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    1a2bb87e4f80e77a5495a271aa87ab37=RedBox-10446
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    7366ed9489ce06ed6244f29a059affea=RedBox-10447
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    bf8cd725af3a721ca20a4e3f2c4e3771=RedBox-10448
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    81812dcb50cf63be2ab9b85338a7bd39=RedBox-10449
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    dc936c5c31e561d3e72317f812a9f6cc=RedBox-10450
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    aa60c68b6149bab899fd52d24c36caf6=RedBox-10452
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    abea4853e598e73d83d32aa795393326=RedBox-10453
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    836ec85d08a32e1b923824c464bed0b9=RedBox-10456
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    bf9dc25bf90361ac997a7607d664c72f=RedBox-10458
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    00cc0e64f3018eaad6b318f90fdebae4=RedBox-10461
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    a085c7653424771b3289cb03978d522f=RedBox-10482
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    3913cb233239ad1c53bd89bc46d242c6=RedBox-10483
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    d03aa651a51df3a49632e64aa17c6127=RedBox-10485
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    fded29c527948334d31b9bc3b8dbeb0b=RedBox-10486
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    26210436c87bb01bc09ecdbb3c414f89=RedBox-10487
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    7197aa6d2473565e9916ff731aa069a9=RedBox-10488
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    955a684380371edaf627aeae88f7de7f=RedBox-10489
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    2ded962227e6b4e82d04dc0309ebd778=RedBox-10490
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    b058abde207f6b4cd066d8aea7a080d6=RedBox-10491
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    622cb1f38a3ae3204ff29a843b6b970e=RedBox-10492
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    297343e6221000c1961abd5f25cd9ccd=RedBox-10493
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    6bd6c111d40a2a2d650002c11cc45e71=RedBox-10494
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    1e94ee2c1291556acc00b5fb57cd8053=RedBox-10495
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    ee9f26e622011ee91cc5095fef80d5e0=RedBox-10496
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    939e93d900f1172375fe76689464275d=RedBox-10497
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    b67fe6264609a17744c03f6eaadab0f2=RedBox-10498
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    d6cbda0a9f9e771b36f6af32cc62f254=RedBox-10499
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    d67db6a830ee08c567c8fcff71d6a6bd=RedBox-10500
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    db98a9ee80b743558d30ee314b1560b5=RedBox-10504
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    2817f51ece3597a9e837ec2ce8e72a65=RedBox-10505
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    e7d6d06078769e320925276d399e8e53=RedBox-10506
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    0e456d3f77f176adfc47effbefa3cbf5=RedBox-10507
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    4ac9bc5646723d0085ebff45c76849ee=RedBox-10508
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    5326e25025b7d2b2510c404c6fe61634=RedBox-10509
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    81e3b9f295bae29b9c1e06ee65a0f673=RedBox-10510
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    0c9047dceea97a682df9aba2b43280a1=RedBox-10512
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    2093285814fc8752004e0a75219bb5ba=RedBox-10513
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    5fce4d0266c7d66b3843b467243a4a7c=RedBox-10514
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    bfe82cb6015bcfc100cb82553637b3d5=RedBox-10520
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    3ecb20941dd87eafbd1ceec712d8e94f=RedBox-10528
+
+21-11-03 15:08:40 main                      DEBUG    Found:
+21-11-03 15:08:40 main                      DEBUG    c7bef3fa480174ba3bb8673b125d4ad6=RedBox-10601
+
+21-11-03 15:08:41 main                      DEBUG    ***SEARCH: nas.ini***
+
+21-11-03 15:08:41 main                      DEBUG    Found:
+21-11-03 15:08:41 main                      DEBUG    NASWriteSizeKB=2304
+
+21-11-03 15:08:41 main                      DEBUG    ERROR Not Found:
+21-11-03 15:08:41 main                      DEBUG    NASWriteWaitMS=25
+
+21-11-03 15:08:42 main                      DEBUG    ***SEARCH: pp.ini***
+
+21-11-03 15:08:42 main                      DEBUG    Found:
+21-11-03 15:08:42 main                      DEBUG    DetectNewItems=0
+
+21-11-03 15:08:42 main                      DEBUG    Found:
+21-11-03 15:08:42 main                      DEBUG    SegLengthSecs=600
+
