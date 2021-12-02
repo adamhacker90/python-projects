@@ -1,0 +1,12 @@
+{ "Recorder": {
+    "ipAddress":"172.24.138.23",
+    "login":"admin",
+    "password":"recorder"
+    },
+    "Search": {
+    "resultsToSkip": 0,
+    "searchMode": "EarliestFirst",
+    "startTime": "20210601143000",
+    "endTime": "20210728232000"
+    }
+    }
